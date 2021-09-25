@@ -1,0 +1,25 @@
+.container-fluid {
+    color: white;
+}
+
+.jumbotron {
+    background-color: red;
+}
+
+.team-area {
+    flex-wrap: wrap;
+    display: flex;
+    justify-content: space-around;
+    
+}
+
+.card-header {
+    color: white;
+    background-color: blue;
+}
+
+.card {
+    margin-bottom: 15px;
+    box-shadow: 4px 4px 8px rgba(0, 0, 0, 0.7);
+}
+
