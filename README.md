@@ -17,24 +17,25 @@ fs.writeFileSync(outputStyling, cssOnPage, "utf-8");
 
 4.I was unable to create the video of the walkthrough so I am attaching pictures of me using the inquirer to create the document.
 
+### Beginning Stage
 ![](./readMEpngs/beginningPhoto.png)
 
 
-
+### Middle Stage
 ![](./readMEpngs/middleStage.png)
 
 
-
+### Develop Team Stage
 ![](./readMEpngs/developTeamStage.png)
 
 
-
+### Generated HTML
 ![](./readMEpngs/generatedHTML.png)
 
 
-
+### Deployed State
 ![](./readMEpngs/deployedState.png)
 
 
-
+### Deployed State continued
 ![](./readMEpngs/deployedState2.png)
